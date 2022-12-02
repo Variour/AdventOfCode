@@ -1,4 +1,4 @@
-$inputs = Get-Content ./input.txt
+$inputs = Get-Content ./1-input.txt
 
 $totals = @()
 $current = 0
